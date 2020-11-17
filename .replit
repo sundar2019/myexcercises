@@ -1,2 +1,2 @@
 language = "python3"
-run = "python3 OOP.py"
+run = "python3 learn_python2.py"
